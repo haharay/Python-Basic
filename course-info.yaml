@@ -5,11 +5,11 @@ programming_language: Python
 content:
 - 概述
 - 变量
-- Strings
-- Data structures
-- Condition expressions
-- Loops
-- Functions
-- Classes and objects
-- Modules and packages
-- File input output
+- 字符串
+- 数据结构
+- 条件表达式
+- 循环
+- 函数
+- 文件操作
+- 类与对象
+- 模块与程序包
