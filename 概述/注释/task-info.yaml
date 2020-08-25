@@ -3,8 +3,8 @@ files:
 - name: comments.py
   visible: true
   placeholders:
-  - offset: 138
-    length: 11
-    placeholder_text: add new comment here
+  - offset: 84
+    length: 3
+    placeholder_text: 在此处添加注释
 - name: tests.py
   visible: false

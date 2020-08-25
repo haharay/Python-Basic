@@ -52,7 +52,7 @@ def check_importable_path(path):
     try:
         import_file(path)
     except:
-        failed("The file contains syntax errors", test_file_importable.__name__)
+        failed("文件中包含语法错误", test_file_importable.__name__)
         return
     finally:
         revert_input(saved_input)
@@ -117,7 +117,7 @@ def test_is_not_empty():
     if len(file_text) > 0:
         passed()
     else:
-        failed("The file is empty. Please, reload the task and try again.")
+        failed("文件为空。请重新加载任务，再试一次。")
 
 
 def test_text_equals(text, error_text):

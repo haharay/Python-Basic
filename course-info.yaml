@@ -3,8 +3,8 @@ language: Chinese
 summary: Python语言程序设计
 programming_language: Python
 content:
-- Introduction
-- Variables
+- 概述
+- 变量
 - Strings
 - Data structures
 - Condition expressions
