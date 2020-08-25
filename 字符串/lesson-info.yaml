@@ -1,11 +1,11 @@
 content:
-- Concatenation
-- String multiplication
-- String indexing
-- String negative indexing
-- String slicing
-- In operator
-- String length
-- Character escaping
-- Basic string methods
-- String formatting
+- 字符串连接
+- 字串乘数
+- 字串索引
+- 字串反向索引
+- 字符串切片
+- In操作符
+- 字符串长度
+- 字符转义
+- 字符串基本方法
+- 字符串格式化

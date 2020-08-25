@@ -7,7 +7,7 @@ def test_value():
     if "monty_python.upper()" in window:
         passed()
     else:
-        failed("Use upper() method")
+        failed("使用upper()方法")
 
 if __name__ == '__main__':
     run_common_tests()
