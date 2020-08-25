@@ -1,4 +1,4 @@
 custom_name: File input/output
 content:
-- Read file
-- Write to file
+- 读文件
+- 写入文件
