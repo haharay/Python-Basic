@@ -1,23 +1,11 @@
 ## 第一个程序
 
-Traditionally the first program you write in any programming language is `"Hello World!"`.  
+传统上，你用任何编程语言写的第一个程序都是`"Hello World!"`。 
   
-Introduce yourself to the World.  
+向世界介绍自己。 
   
-To run this script, right-click anywhere in the **Editor** view so you can see the context menu and select **Run 'hello_world'**.   
-Alternatively, you can use the &shortcut:RunClass; shortcut.
-Exclusively in PyCharm Edu, you can use the ![](execute.svg) gutter icon. 
+要运行这个脚本，在**编辑器**视图中的任何地方单击右键，这样你就可以看到上下文菜单，然后选择**运行'hello_world'**。  
+另外，你也可以使用&shortcut:RunClass;快捷方式。
+在PyCharm Edu中，你可以使用 ![](execute.svg)沟槽图标。
 
-For more information, check out [our help](https://www.jetbrains.com/help/pycharm/running-and-rerunning-applications.html).
-
-## JetBrains Academy
-
-If this task seems too hard or you are looking for a more structured and detailed curriculum, we suggest trying [JetBrains Academy](https://hi.hyperskill.org?utm_source=ide&utm_content=first-task).
-
-There are many reasons for you to try JetBrains Academy. Here's just a few of them:
-
-- Comprehensive learning tracks with a detailed [Knowledge Map](https://hyperskill.org/knowledge-map?utm_source=ide&utm_content=first-task).
-- Projects with different difficulty levels that provide a flexible learning experience to match your skill level. 
-- You can practice with and master [professional development tools](https://hyperskill.org/plugin?utm_source=ide&utm_content=first-task).
-
-Join JetBrains Academy [here](https://hyperskill.org/onboarding?track=python&utm_source=ide&utm_content=first-task) and try it yourself.
+更多信息，请查看[帮助](https://www.jetbrains.com/help/pycharm/running-and-rerunning-applications.html)。
