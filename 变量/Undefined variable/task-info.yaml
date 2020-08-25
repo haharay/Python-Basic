@@ -5,6 +5,6 @@ files:
   placeholders:
   - offset: 19
     length: 9
-    placeholder_text: Other Variable
+    placeholder_text: 其它变量
 - name: tests.py
   visible: false

@@ -4,5 +4,5 @@ Just as with any other programming language, the addition ( `+` ), subtraction (
   
 Divide the value stored in the variable `number` by `2` , and then calculate the remainder.  
 
-<div class='hint'>Use / operator.</div>
-<div class='hint'>Use % operator.</div>
+<div class='hint'>使用 / 运算符</div>
+<div class='hint'>使用 % 运算符</div>
