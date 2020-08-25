@@ -4,7 +4,7 @@ files:
   visible: true
   placeholders:
   - offset: 19
-    length: 14
-    placeholder_text: other variable
+    length: 9
+    placeholder_text: Other Variable
 - name: tests.py
   visible: false
