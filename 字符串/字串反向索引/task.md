@@ -1,8 +1,8 @@
 ## 字串反向索引
 
-You can use negative numbers in the indexing operator to count characters ‘backwards’ from the end of the string.  
+你可以在索引操作符中使用负数来从字符串的末尾 "倒数 "字符。 
   
-Use negative index to get the `'!'` sign from `long_string`   
+使用负数索引从字符串变量`long_string`中获取`!`   
 
 <div class='hint'>
 使用反向索引

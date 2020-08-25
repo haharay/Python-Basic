@@ -1,9 +1,9 @@
-## Character escaping
+## 字符转义
 
-Backslash is used to escape single or double quotation marks, for example `"It\'s me"` or `"She said \"Hello\""` . The special symbol `'\n'` is used to add a line break to a string.  
-Single quotation mark could be used in double quoted string without escaping and vice versa.  
+反斜杠用于转义单引号或双引号，例如 `"It\'s me"` or `"She said \"Hello\""`。特殊符号`'\n'`用于在字符串中增加一个换行符。 
+单引号可以用在双引号的字符串中，不需要转义，反之亦然。 
   
-Print out the following text using one string:  
-The name of this ice-cream is "Sweet'n'Tasty"  
+用一个字符串打印出下面的文字。 
+这个雪糕的名字叫 "Sweet'n'Tasty"  
 
-<div class='hint'>Use backslash \\ to escape quotes.</div>
+<div class='hint'>使用反斜杠</div>来逃避引号。

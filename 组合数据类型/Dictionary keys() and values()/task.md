@@ -1,7 +1,7 @@
-## Dictionary keys() and values()
+## 字典的 keys() 和 values()
 
-There are a lot of useful methods in dictionaries such as `keys()` and `values()` . You can explore the rest using &shortcut:CodeCompletion; after a `dict_name` followed by a dot.  
+字典中有很多有用的方法，比如`keys()`和`values()`。你可以使用&shortcut:CodeCompletion;在`dict_name`后面加个点来探索其余的方法。 
   
-Print all values from `phone_book` .  
+打印所有来自`phone_book`的值。 
 
-<div class='hint'>Use values() method.</div>
+<div class='hint'>使用values()方法</div>

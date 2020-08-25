@@ -1,10 +1,10 @@
 ## 未定义变量
 
 
-Variable names may only contain letters, digits, and/or the underscore character, and cannot start with a digit.  
+变量名只能包含字母(含中文或其它自然语言字符)、数字和/或下划线(`_`)，并且不能以数字开头。 
   
-Check what happens if you use a variable which is not defined yet. Try to print out an undefined name.  
+变量找使用前必须被适当定义，我们看看如果使用一个尚未定义的变量会发生什么。尝试打印出一个未定义的名称。 
 
 <div class="hint">
-Type the name of an undefined variable here. Note that variable names must start with a letter and may contain letters, '_' and/or numbers.
+在此键入未定义变量名。请注意，变量名必须以字母开头，并且可以包含字母、_和/或数字。
 </div>

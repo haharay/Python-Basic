@@ -1,7 +1,7 @@
-## Lists introduction
+## 列表介绍
 
-A list is a data structure you can use to store a collection of different pieces of information under a single variable name. A list can be written as an array of comma-separated values (items) between square brackets, e.g. `lst = [item1, item2]` . Lists might contain items of different types, but usually all the items in the list are of the same type. Like strings, lists can be indexed and sliced (see [Lesson 3](#lesson3#task3#)).  
+列表是一种数据结构，你可以用它来存储一个变量名下的不同信息的集合。列表可以写成方括号之间的逗号分隔的值（项）数组，例如`lst = [item1, item2]`。列表可能包含不同类型的项，但通常列表中的所有项都是同一类型的。像字符串一样，列表也可以被索引和切片（参见[第3课](#lesson3#task3#)）。 
   
-Use list slicing to print `[4, 9, 16]` .  
+使用列表切片来打印`[4, 9, 16]`。 
 
-<div class='hint'>Use list slicing lst[index1:index2]</div>
+<div class='hint'>使用列表切片lst[index1:index2]</div>

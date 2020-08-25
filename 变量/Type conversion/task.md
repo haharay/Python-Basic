@@ -1,7 +1,7 @@
-## Type conversion
+## 类型转换
 
-There are several built-in functions that let you convert one data type to another. These functions return a new object representing the converted value. `int(x)` converts `x` to an integer. `float(x)` converts `x` to a floating-point number. `str(x)` converts object `x` to a string representation.  
+有几个内置函数可以让你将一种数据类型转换为另一种数据类型。这些函数返回一个代表转换值的新对象。`int(x)`将`x`转换为一个整数。`float(x)`将`x`转换为浮点数。`str(x)` 将对象`x`转换为字符串表示。 
   
-Convert `float_number` to integer.  
+将`float_number`转换为整数。 
 
-<div class="hint">Use int() function.</div>
+<div class="hint">使用int()函数</div>

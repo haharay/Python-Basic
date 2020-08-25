@@ -1,7 +1,7 @@
-## In operator
+## In操作符
 
-If you want to check whether a string contains a specific letter or a substring, you can use the `in` keyword.  
+如果想检查一个字符串是否包含一个特定的字母或子串，你可以使用`in`关键字。 
   
-Check if there is `"ice"` in `"ice cream"` .  
+检查变量 "ice_cream"中是否含有 "ice"。 
 
-<div class="hint">Use 'in' operator.</div>
+<div class="hint">使用'in'操作符。</div>

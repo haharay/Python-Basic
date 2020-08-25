@@ -1,8 +1,8 @@
-## Else, elif part in if statement
+##  if语句中的else, elif
 
-The `else` statement complements the `if` statement. The `elif` keyword is short for "else if".  
+`else`语句是对`if`语句的补充。`elif`关键字是 "else if "的缩写。 
   
-Print `True` if name is equal to `"John"` and `False` otherwise.  
+如果name等于`"John"`，则打印`True`，否则打印`False`。 
 
-<div class='hint'>Use if keyword and == operator.</div>
-<div class='hint'>Use else keyword.</div>
+<div class='hint'>使用if关键字和==运算符</div>。
+<div class='hint'>使用else关键字</div>。

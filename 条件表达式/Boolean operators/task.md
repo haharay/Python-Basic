@@ -1,7 +1,7 @@
-## Boolean operators
+## 布尔运算符
 
-Boolean operators compare statements and return results in boolean values. The boolean operator `and` returns `True` when the expressions on both sides of `and` are `True` . The boolean operator `or` returns `True` when at least one expression on either side of `or` is `True` . The boolean operator `not` inverts the boolean expression it precedes.  
+布尔运算符比较语句并以布尔值返回结果。当 `and `两边的表达式都是 `True `时，布尔运算符 `and `返回 `True`。当 `or `两边至少有一个表达式为 `True `时，布尔运算符 `or `返回 `True`。布林运算符`not`反转它前面的布林表达式。 
   
-Check if `name` is equal to `"John"` and he is not `23` years old.  
+检查`name`是否等于`"John"`并且他不是`23`岁。 
 
-<div class='hint'>Use and keyword and != operator.</div>
+<div class='hint'>使用and关键字和 != 操作符</div>。

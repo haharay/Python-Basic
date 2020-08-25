@@ -1,7 +1,7 @@
-## Comparison operators
+## 比较运算符
 
-Python has many types of comparison operators including `>=` , `<=` , `>` , `<` , etc. All comparison operations in Python have the same priority. Comparisons yield boolean values: either `True` or `False` . Comparisons can be chained arbitrarily.  
+Python有很多类型的比较运算符，包括`>=` , `<=` , `>` , `<`等。在Python中所有的比较操作都有相同的优先级。比较产生布尔值："True "或 "False"。比较可以任意级联。 
   
-Check whether the value of the variable `three` is strictly greater than the value of the variable `two` .  
+检查变量`three`的值是否严格大于变量`two`的值。 
 
-<div class='hint'>Use > operator.</div>
+<div class='hint'>使用>运算符</div>

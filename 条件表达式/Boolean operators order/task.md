@@ -1,7 +1,7 @@
-## Boolean operators order
+## 布尔运算符命令
 
-Boolean operators are not evaluated from left to right. There's an order of operations for boolean operators: `not` is evaluated first, `and` is evaluated next, `or` is evaluated last.  
+布尔运算符不是从左到右计算的。布尔运算符有一个运算顺序。`not`首先被执行，`and`其次，`or`最后被执行。 
   
-Check if `name` is `"Ellis"` or it's not true that `name` equal `"John"` and he is `17` years old at the same time.  
+检查`name`是否是`"Ellis"`，或者`name`等于`"John"`和他同时`17`岁是不是真的。 
 
-<div class='hint'>Combine 'and', 'or' and 'not' keywords.</div>
+<div class='hint'>结合'and'、'or'和'not'等关键字</div>。

@@ -1,7 +1,7 @@
 ## Tuples
 
-Tuples are almost identical to lists. The only significant difference between tuples and lists is that tuples cannot be changed: you cannot add, change, or delete elements from the tuple. Tuples are constructed by a comma operator enclosed in parentheses, for example `(a, b, c)` . A single item tuple must have a trailing comma, such as `(d,)` .  
+元组与列表几乎完全相同。元组和列表之间唯一显著的区别是，元组不能被改变：你不能对元组添加、改变或删除元素。定义元组由括号中的逗号操作符构成，例如`(a, b, c)`。单项元组必须有一个尾部的逗号，例如`(d,)`。 
   
-Print the length of the `alphabet` .  
+打印`alphabet`的长度。 
 
-<div class='hint'>Use len() function.</div>
+<div class='hint'>使用len()函数</div>。

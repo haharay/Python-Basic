@@ -1,8 +1,10 @@
 ## 读文件
 
-Python has a number of built-in functions to read and write information from a file on your computer. The `open` function is used to open a file. The file can be opened in read mode (using `"r"` as the second argument) or in write mode (using `"w"` as the second argument). The `open` function returns the file object. You need to store it to close the file later.  
+Python 有许多内置的函数用来从计算机的文件中读取和写入信息。`open`函数用于打开一个文件。文件可以在读模式(使用`"r"`作为第二个参数)或写模式(使用`"w"`作为第二个参数)下打开。`open`函数返回文件对象。你需要把它存储起来，以便以后关闭文件。 
+
+### 任务
   
-Print the contents of "input.txt" to output. Print the first line of "input1.txt". Then close the file.  
+输出打印 "input.txt "的内容。打印 "input1.txt "的第一行。然后关闭文件。 
 
 <div class='hint'>
 print函数.

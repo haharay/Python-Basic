@@ -1,7 +1,7 @@
-## Boolean operators
+## 布尔运算符
 
-Boolean is a type of value that can only be `True` or `False` . The `==` (equality) operator checks whether the two variables being compared are equal.  
+布尔类型是一种只能是 "True "或 "False "的值。`==`（等于）运算符检查被比较的两个变量是否相等。 
   
-Check whether the variable `two` is equal to `three` .  
+检查变量`two`是否等于`three`。 
 
-<div class='hint'>Use == operator.</div>
+<div class='hint'>使用==运算符。</div>

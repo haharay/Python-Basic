@@ -1,6 +1,8 @@
-## In keyword
+## In关键字
 
-The `in` keyword is used to check if a list or a dictionary contains a specific item. You can apply `in` to lists or dictionaries the same way as you did with strings.  
+`in`关键字用于检查一个列表或一个字典是否包含一个特定的项目。你可以将`in`应用于列表或字典，就像应用于字符串一样。 
   
-Check if `grocery_dict` keys contain `"fish"` .  
-Use in keyword.
+检查`grocery_dict`键是否包含`"fish"`。 
+<div class="hint">
+使用in关键字。
+</div>

@@ -1,6 +1,6 @@
-## List operations
+## 列表操作
 
-You can add new items at the end of the list, by using the `append()` method and concatenation. Unlike strings, lists are a mutable type, i.e. it is possible to change their content using `lst[index] = new_item`   
+你可以通过使用`append()`方法和连接，在列表末尾添加新项目。与字符串不同的是，列表是一种可更改的类型，也就是说，可以使用`lst[index] = new_item`来更改其内容。  
   
-Replace `"dino"` with `"dinosaur"` in the `animals` list.  
-<div class='hint'>Use indexing operation and assignment.</div>
+将 `animals`列表中的`"dino"`替换为 `"dinosaur"`。 
+<div class='hint'>使用索引操作和赋值</div>

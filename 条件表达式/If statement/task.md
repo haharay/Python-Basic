@@ -1,7 +1,7 @@
-## If statement
+## If语句
 
-The `if` keyword is used to form a conditional statement that executes some specified code after checking if its expression is `True` . Python uses indentation to define code blocks.  
+`if`关键字用于构造一个条件语句，在检查其表达式是否为`True`后执行一些指定的代码。Python使用缩进来定义代码块。 
   
-Print `"empty"` if the `tasks` list is empty.  
+如果`tasks`列表为空，则打印`"empty"`。 
 
-<div class='hint'>Use len function to check if tasks is empty.</div>
+<div class='hint'>使用len函数检查tasks是否为空</div>

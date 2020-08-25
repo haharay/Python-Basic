@@ -1,20 +1,9 @@
-## Write to file
+## 写入文件
 
-If you open a file using `"w"` (write) as the second argument, a new empty file will be created. Note that if another file with the same name exists, it will be deleted. If you want to add some content to an existing file, you should use the `"a"` (append) modifier.  
+如果你使用`"w"`（写）作为第二个参数打开一个文件，将创建一个新的空文件。注意，如果存在另一个同名文件，它将被删除。如果你想在一个现有的文件中添加一些内容，你应该使用`"a"`（追加）修饰符。 
   
-Add elements from the `zoo` list to "output.txt".  
+将`zoo`列表中的元素添加到 "output.txt "中。 
 
-<div class='hint'>Use 'a' modifier to append lines to the end of file.</div>
-<div class='hint'>Use 'write' method.</div>
-<div class='hint'>Call f.close method.</div>
-
-## What's next?
-
-Now, once you have mastered the basics of Python, we bet that you’ll be wondering what to do next. We recommend checking out [JetBrains Academy](https://hi.hyperskill.org?utm_source=ide&utm_content=last-task). Here are a few reasons to try JetBrains Academy now:
-
-- 50+ projects and 500+ topics available for learning, and the number keeps growing.
-- Different levels of project difficulty that provide a flexible learning experience for users of all ability levels.
-- Comprehensive learning tracks with a detailed [Knowledge Map](https://hyperskill.org/knowledge-map?utm_source=ide&utm_content=last-task).
-- Learn anywhere: you can start learning on your tablet or mobile phone via the browser and continue on your laptop or PC; you can even build the projects [right in your IDE](https://hyperskill.org/plugin#python).
-
-Join JetBrains Academy [here](https://hyperskill.org/onboarding?track=python&utm_source=ide&utm_content=last-task) and try it yourself.
+<div class='hint'>使用'a'修饰符将行添加到文件末尾</div>
+<div class='hint'>使用'write'方法</div>
+<div class='hint'>调用f.close方法</div>

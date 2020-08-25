@@ -1,8 +1,8 @@
-## Arithmetic operators
+## 算术运算符
 
-Just as with any other programming language, the addition ( `+` ), subtraction ( `-` ), multiplication ( `*` ), and division ( `/` ) operators can be used with numbers. In addition Python has the power ( `**` ) and modulo ( `%` ) operators.  
+就像其他编程语言一样，加法 ( `+` )、减法 ( `-` )、乘法 ( `*` )和除法 ( `/` )运算符可以用于数字。此外Python还有幂( `**` )和求模( `%` )运算符。 
   
-Divide the value stored in the variable `number` by `2` , and then calculate the remainder.  
+将存储在变量`number`中的值除以`2`，然后计算余数。 
 
 <div class='hint'>使用 / 运算符</div>
 <div class='hint'>使用 % 运算符</div>

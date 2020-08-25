@@ -1,8 +1,8 @@
-## String formatting
+## 字符串格式化
 
-The `%` operator after a string is used to combine a string with variables. The `%` operator will replace `%s` in a string with the string variable that comes after it. The `%d` special symbol is used as a placeholder for numeric or decimal values.  
+字符串后的`%`运算符用于将字符串与变量结合起来。`%`运算符将用后面的字符串变量替换字符串中的`%s`。`%d`特殊符号用来作为数字或十进制值的占位符。 
   
-Tell PyCharm how old you are.  
+告诉PyCharm你多大了。 
 
-<div class='hint'>Use %d special symbol.</div>
-<div class='hint'>How old are you?</div>
+<div class='hint'>使用%d特殊符号</div>。
+<div class='hint'>你多大了？ </div>

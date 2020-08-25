@@ -1,7 +1,7 @@
-## List items
+## 列表
 
-Assignment to slices is also possible, and this can even change the size of a list or clear it entirely.  
+也可以对切片进行分配，这甚至可以改变列表的大小或完全清除列表。 
   
-Clear `animals` list.  
+清除`animals`列表。 
 
-<div class='hint'>Use assignment to an empty list [].</div>
+<div class='hint'>使用赋值到空列表[].</div>

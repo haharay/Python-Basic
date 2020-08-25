@@ -1,9 +1,9 @@
-## String indexing
+## 字符串索引
 
-You can access a character of a string if you know its position. For example, `str[index]` will yield the character at position `index` in the string `str` .  
-Note that string index always starts at `0` .  
-Indices may also be negative numbers, to start counting from the right. Note that since `-0` is the same as `0` , negative indices start from `-1` .  
+如果你知道一个字符串的位置，你可以访问它的其中一个或多个字符。例如，`str[index]`将产生字符串`str`中`index`位置的字符。 
+请注意，字符串的索引总是从`0`开始。 
+索引也可以是负数，从右边开始计数。请注意，由于`-0`和`0`是一样的，负数索引从`-1`开始。 
   
-Use index operator to get `"P"` from `"python"` .  
+使用索引运算符从 "Python "中获取 "P"。 
 
-<div class="hint">Note that index starts with 0.</div>
+<div class="hint">注意索引从0开始</div>。

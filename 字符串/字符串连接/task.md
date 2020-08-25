@@ -1,7 +1,7 @@
-## Concatenation
+## 连接
 
-Combining two strings using the `+` symbol is called concatenation.  
+使用`+`符号将两个字符串组合在一起叫做字串连接。 
   
-Use the `hello` and `world` variables to get a `"Hello World"` string.  
+使用`hello`和`world`得到一个`"Hello World"`字符串。 
 
-<div class='hint'>Use chained concatenation and one-space string \" \".</div>
+<div class='hint'>使用连接和单个空格字符串</div>

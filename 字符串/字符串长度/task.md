@@ -1,8 +1,8 @@
-## String length
+## 字符串长度
 
-The `len()` function is used to count how many characters a string contains.  
+`len()`函数用于计算一个字符串包含多少个字符。 
   
-Get the first half of the string stored in the variable `phrase` .  
-Note: Remember about type conversion.  
+获取存储在变量`phrase`中的字符串的前半部分。 
+注意：记住类型转换。 
 
-<div class='hint'>Remember about string slicing.</div>
+<div class='hint'>注意关于字符串分片的知识</div>

@@ -1,7 +1,7 @@
-## Assignments
+## 赋值
 
-Augmented assignment is a single statement combining a binary operation and an assignment statement such as `+=` , `-=` , etc.  
+增强赋值是将二值操作和赋值语句结合在一起的单个语句，如`+=` ，`-=` 等。 
   
-Use an augmented assignment to add `5` to `number` and update the variable.  
+使用增强赋值将 "5 "添加到 "number "中并更新变量。 
 
-<div class='hint'>Use += operator.</div>
+<div class='hint'>使用+=操作符.</div>
