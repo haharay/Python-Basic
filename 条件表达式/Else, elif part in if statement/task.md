@@ -4,5 +4,5 @@
   
 如果name等于`"John"`，则打印`True`，否则打印`False`。 
 
-<div class='hint'>使用if关键字和==运算符</div>。
-<div class='hint'>使用else关键字</div>。
+<div class='hint'>使用if关键字和==运算符</div>
+<div class='hint'>使用else关键字</div>
