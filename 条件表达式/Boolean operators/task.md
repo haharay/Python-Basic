@@ -4,4 +4,6 @@
   
 检查`name`是否等于`"John"`并且他不是`23`岁。 
 
-<div class='hint'>使用and关键字和 != 操作符</div>
+<div class='hint'>
+使用and关键字和 != 操作符
+</div>
