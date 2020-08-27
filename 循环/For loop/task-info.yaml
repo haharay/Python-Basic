@@ -3,7 +3,7 @@ files:
 - name: for_loop.py
   visible: true
   placeholders:
-  - offset: 238
+  - offset: 159
     length: 20
     placeholder_text: iterate over primes using for loop
 - name: tests.py

@@ -3,7 +3,7 @@ files:
 - name: continue_keyword.py
   visible: true
   placeholders:
-  - offset: 154
+  - offset: 113
     length: 10
     placeholder_text: Check if x is even
 - name: tests.py

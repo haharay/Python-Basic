@@ -1,7 +1,7 @@
-## for loop
+## for循环
 
- `for` loops are used to iterate over a given sequence. On each iteration, the variable defined in the `for` loop will be assigned to the next value in the list.  
+ `for`循环用于对给定序列进行迭代。在每次迭代时，"for "循环中定义的变量将被分配给列表中的下一个值。 
   
-Print each prime number from the `primes` list using the `for` loop. A prime number is a natural number greater than `1` that has no positive divisors other than `1` and itself.  
+使用`for`循环从`primes`列表中打印出每个质数。素数是一个大于`1`的自然数，除了`1`和它本身之外，没有正除数。 
 
-<div class='hint'>Use for loop to iterate over 'primes'.</div>
+<div class='hint'>使用for循环来遍历 "primes"</div>

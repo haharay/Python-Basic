@@ -1,10 +1,10 @@
 square = 1
 
 while square <= 10:
-    print(square)    # This code is executed 10 times
-    square += 1      # This code is executed 10 times
+    print(square)    # 此行执行10次
+    square += 1      # 此行执行10次
 
-print("Finished")  # This code is executed once
+print("Finished")  # 执行1次
 
 square = 0
 number = 1

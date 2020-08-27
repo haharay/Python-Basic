@@ -1,7 +1,7 @@
-## while loop
+## while循环
 
-A `while` loop is similar to an `if` statement: it executes some code if some condition is true. The key difference is that it will continue to execute indented code for as long as the condition is `True` .  
+`while`循环类似于`if`语句：如果某些条件为真，它就执行一些代码。关键的区别是，只要条件为 "True"，它就会继续执行缩进的代码。 
   
-Print all squares from `1` to `99`  `(1, 4, ... , 81)` . Use `number` variable in `while` loop.  
+打印从`1`到`99`的所有平方`(1, 4, ... , 81)`。在while循环中使用`number`变量。 
 
-<div class='hint'>Check if 'number' is strictly less than 10 in condition.</div>
+<div class='hint'>检查条件中'number'是否严格小于10</div>
