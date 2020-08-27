@@ -1,7 +1,7 @@
-## Definition
+## 定义
 
-An object combines variables and functions into a single entity. Objects get their variables and functions from classes. Classes are essentially templates for creating your objects. You can think of an object as a single data structure that contains data as well as functions. Functions of objects are called methods.  
+一个对象将变量和函数结合成一个实体。对象从类中获取它们的变量和函数。类本质上是创建对象的模板。你可以把一个对象看作是一个单一的数据结构，它既包含数据，也包含函数。对象的函数被称为方法。 
   
-Assign value to a variable inside `MyClass` .  
+在`MyClass`里面给一个变量赋值。 
 
-<div class='hint'>Assign any value to variable.</div>
+<div class='hint'>将任何值分配给变量</div>

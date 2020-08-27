@@ -1,7 +1,7 @@
-## Variable access
+## 变量访问
 
-To access a variable inside an object, see example below. You can change the values of variables defined in a class for different instances (objects) of this class.  
+要访问一个对象内部的变量，请看下面的例子。你可以为这个类的不同实例（对象）改变类中定义的变量值。 
   
-Print the value of `variable1` from `my_object`.  
+打印`my_object`中`variable1`的值。 
 
-<div class='hint'>Access 'variable1' using my_object.variable1</div>
+<div class='hint'>使用my_object.variable1访问'variable1'</div>

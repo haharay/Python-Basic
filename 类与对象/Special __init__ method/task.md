@@ -1,7 +1,7 @@
-## Special &#95;&#95;init&#95;&#95; method
+## 特殊的 &#95;&#95;init&#95;&#95;方法
 
- `__init__` function is used to initialize the objects it creates. `__init__` is short for "initialize". `__init__()` always takes at least one argument, self, which refers to the object being created. `__init__()` function sets up each object the class creates.  
+ `__init__`函数用于初始化其创建的对象。`__init__`是 "initialize "的缩写。`__init__()`总是接受至少一个参数self，它指的是被创建的对象。`__init__()`函数对类创建的每个对象进行设置。 
   
-Add parameters to the `Car` class so we can create it with a specific color.  
+为`Car`类添加参数，这样我们就可以用特定的颜色来创建它。 
 
-<div class='hint'>Add two parameters -- self and color.</div>
+<div class='hint'>添加两个参数--self和color.</div>

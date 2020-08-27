@@ -1,7 +1,9 @@
-## Parameters and call arguments
+## 参数和调用
 
-Function parameters are defined inside the parentheses `()` , following the function name. A parameter acts as a variable name for the passed argument.  
+函数参数定义在函数名称后的括号`()`内。参数传递参数的变量名。 
   
-Define a function that prints the square of the passed parameter.  
+定义一个函数，打印传递参数的平方。 
 
-<div class='hint'>Put parameter 'x' inside parentheses in function definition.</div>
+<div class='hint'>
+在函数定义中把参数'x'放在括号内
+</div>

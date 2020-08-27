@@ -1,11 +1,11 @@
-## Return value
+## 返回值
 
-Functions may return a value to the caller, using the keyword `return` . You can use the returned value to assign it to a variable or just print it out.  
+函数可以使用关键字`return`返回一个值给调用者。你可以使用返回的值将其赋值给一个变量或直接打印出来。 
   
-In the Fibonacci sequence, the first two numbers are `1` and `1` , and each subsequent number is the sum of the previous two. Write a function that returns a list of the numbers of the Fibonacci series up to `n` .  
+在斐波那契数列中，前两个数字是`1`和`1`，随后的每个数字是前两个数字的和。写一个函数，返回斐波那契数列的数字列表，直到`n`。 
 
-<div class='hint'>Initialize 'b' with 1.</div>
-<div class='hint'>Update 'b' with 'a + b'.</div>
-<div class='hint'>Update 'a' with 'tmp_var'.</div>
+<div class='hint'>用1初始化'b'</div>。
+<div class='hint'>用'a + b'来更新'b'.</div>。
+<div class='hint'>用'tmp_var'更新'a'.</div>。
 
 

@@ -1,7 +1,7 @@
-## Default parameters
+## 默认参数
 
-Sometimes it's useful to specify a default value for one or more function parameters. This creates a function that can be called with fewer arguments than it is defined to allow.  
+有时，为一个或多个函数参数指定一个默认值是很有用的。这就创建了一个可以用比定义允许的参数更少的参数来调用的函数。 
   
-Add parameters for the `hello` function, and set a default value for the name parameter.  
+为`hello`函数添加参数，并为name参数设置一个默认值。 
 
-<div class='hint'>Set default value for parameter "name".</div>
+<div class='hint'>为参数 "name "设置默认值</div>。

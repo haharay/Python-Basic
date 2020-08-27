@@ -1,9 +1,9 @@
 ## 定义
 
-Functions are a convenient way to divide your code into useful blocks, make it more readable and help reuse it. Functions are defined using the keyword `def` , followed by the function's name.  
+函数是一种组织代码模块化的方式。它可以将你的代码划分为有用的块，使其更易读、并有助于重复使用。函数的定义使用关键字 `def`，其后紧跟的函数的名称。 
   
-Define a function to replace duplicate lines in the file.  
+定义一个函数来替换文件中的重复行。 
 
 <div class='hint'>
-Use "def" keyword to define "fun" function.
+使用 "def "关键字来定义 "fun "函数。
 </div>
