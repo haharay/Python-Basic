@@ -3,10 +3,10 @@ files:
 - name: arithmetic_operators.py
   visible: true
   placeholders:
-  - offset: 45
+  - offset: 38
     length: 10
     placeholder_text: divide 'number' by two
-  - offset: 69
+  - offset: 62
     length: 10
     placeholder_text: calculate the remainder
 - name: tests.py

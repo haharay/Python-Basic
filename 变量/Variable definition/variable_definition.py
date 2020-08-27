@@ -1,5 +1,5 @@
-a = b = 2  # This is called a "chained assignment". It assigns the value 2 to variables "a" and "b".
-print("a = " + str(a))   # We'll explain the expression str(a) later in the course. For now it is used to convert the  variable "a" to a string.
+a = b = 2  # 这就是所谓的 "链式赋值"。它将值2分配给变量 "a "和 "b"。
+print("a = " + str(a))   # 我们将在后面的课程中解释表达式str(a)。现在只需要知道，它用于将变量 "a "转换为字符串。
 print("b = " + str(b))
 
 greetings = "greetings"

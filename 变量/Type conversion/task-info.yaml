@@ -3,7 +3,7 @@ files:
 - name: type_cast.py
   visible: true
   placeholders:
-  - offset: 113
+  - offset: 98
     length: 17
     placeholder_text: Convert float_number to integer
 - name: tests.py

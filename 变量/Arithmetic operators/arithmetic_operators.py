@@ -1,4 +1,4 @@
-number = 9.0        # float number
+number = 9.0        # float
 
 result = number / 2
 
